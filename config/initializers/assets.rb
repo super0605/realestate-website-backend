@@ -14,4 +14,4 @@ Rails.application.config.assets.paths << Rails.root.join('node_modules')
 #     Rails.application.config.assets.precompile += %w[graphiql/rails/application.js graphiql/rails/application.css]
 # end
 # folder are already added.
-Rails.application.config.assets.precompile += %w( application.css )
+Rails.application.config.assets.precompile += %w( graphiql/rails/application.css )

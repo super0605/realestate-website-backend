@@ -1,2 +1,2 @@
-//= link ../stylesheets/application.css
-//= link javascript/packs/application.js
+//= link graphiql/rails/application.css
+//= link graphiql/rails/application.js

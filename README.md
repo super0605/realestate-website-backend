@@ -1,4 +1,4 @@
-# Kasaz(Test Project) Ruby on Rails + GraphQL Backend (API only)
+# Ruby on Rails + GraphQL Backend (API only)
 
 * Main tech stacks
 
